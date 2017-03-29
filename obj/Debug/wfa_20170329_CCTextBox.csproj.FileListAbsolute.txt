@@ -1,0 +1,8 @@
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\obj\Debug\wfa_20170329_CCTextBox.Form1.resources
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\obj\Debug\wfa_20170329_CCTextBox.Properties.Resources.resources
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\obj\Debug\wfa_20170329_CCTextBox.csproj.GenerateResource.Cache
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\bin\Debug\wfa_20170329_CCTextBox.exe.config
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\bin\Debug\wfa_20170329_CCTextBox.exe
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\bin\Debug\wfa_20170329_CCTextBox.pdb
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\obj\Debug\wfa_20170329_CCTextBox.exe
+G:\zsb\Code\vs2017\wfa_20170329_CCTextBox\wfa_20170329_CCTextBox\obj\Debug\wfa_20170329_CCTextBox.pdb
